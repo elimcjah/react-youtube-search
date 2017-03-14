@@ -4,9 +4,9 @@
 
 import React from 'react';
 import ReactDom from 'react-dom';
-import SearchBar from './components/search_bar';
+import SearchBar from './components/search_bar.js';
 
-const API_KEY = 'AIzaSyDUjRuScbQd1syYVICjqxBfxE3kiJZXeBA';
+// const API_KEY = 'AIzaSyDUjRuScbQd1syYVICjqxBfxE3kiJZXeBA';
 
 /*Create a new component. This component should produce some HTML*/
 
